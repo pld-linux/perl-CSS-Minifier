@@ -5,7 +5,6 @@
 #
 %define		pdir	CSS
 %define		pnam	Minifier
-%include	/usr/lib/rpm/macros.perl
 Summary:	CSS::Minifier - Perl extension for minifying CSS
 Name:		perl-CSS-Minifier
 Version:	0.01
