@@ -8,7 +8,7 @@
 Summary:	CSS::Minifier - Perl extension for minifying CSS
 Name:		perl-CSS-Minifier
 Version:	0.01
-Release:	1
+Release:	2
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CSS/%{pdir}-%{pnam}-%{version}.tar.gz
